@@ -51,7 +51,7 @@ import com.qualcomm.robotcore.util.ElapsedTime;
  */
 
 // Inserting names to test github integration
-// ftc8390 test 3 and 4 and 5 and 6
+// ftc8390 test 3 and 4 and 5 and 6 and 7
 
 
 @TeleOp(name = "Test OpMode", group = "")  // @Autonomous(...) is the other common choice
