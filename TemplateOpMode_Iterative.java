@@ -30,7 +30,7 @@ CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR
 TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF
 THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 */
-package org.firstinspires.ftc.teamcode.ftc8390.testASandGithub;
+package ftc8390.testASandGithub;
 
 import com.qualcomm.robotcore.eventloop.opmode.OpMode;
 import com.qualcomm.robotcore.eventloop.opmode.TeleOp;
@@ -51,7 +51,7 @@ import com.qualcomm.robotcore.util.ElapsedTime;
  */
 
 // Inserting names to test github integration
-// ftc8390 test 3 and 4
+// ftc8390 test 3 and 4 and 5
 
 
 @TeleOp(name = "Test OpMode", group = "")  // @Autonomous(...) is the other common choice
