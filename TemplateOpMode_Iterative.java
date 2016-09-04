@@ -54,7 +54,7 @@ import com.qualcomm.robotcore.util.ElapsedTime;
 // ftc8390 test 3 and 4 and 5 and 6 and 7 and 8 and 9 and 10
 
 
-@TeleOp(name = "Test OpMode", group = "")  // @Autonomous(...) is the other common choice
+@TeleOp(name = "Test Github")  // @Autonomous(...) is the other common choice
 //@Disabled
 public class TemplateOpMode_Iterative extends OpMode {
   /* Declare OpMode members. */
